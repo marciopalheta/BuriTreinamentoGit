@@ -1,3 +1,6 @@
+# Arquivos de configuração do Android Studio
+.idea/
+
 # Built application files
 *.apk
 *.ap_
